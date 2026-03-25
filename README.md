@@ -1,5 +1,9 @@
 # netkit
 
+[![CI](https://github.com/lybw/netkit/actions/workflows/ci.yml/badge.svg)](https://github.com/lybw/netkit/actions/workflows/ci.yml)
+[![Go Report Card](https://goreportcard.com/badge/github.com/lybw/netkit)](https://goreportcard.com/report/github.com/lybw/netkit)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 A pragmatic Go toolkit for network operations — LAN discovery, OS fingerprinting, port scanning, and MAC vendor lookup.
 
 Built for network engineers who prefer a single binary over a pile of Python scripts.
